@@ -1,8 +1,8 @@
 [
   {
     "course": "Master English: Improve Your Speaking",
-    "rating": "3",
-    "lessons": "10",
+    "rating": "5",
+    "lessons": "8",
     "img": "http://localhost"
   },
   {
@@ -14,7 +14,25 @@
   {
     "course": "Master English: Improve Your Speaking",
     "rating": "3",
-    "lessons": "10",
+    "lessons": "15",
+    "img": "http://localhost"
+  },
+  {
+    "course": "Master English: Improve Your Speaking",
+    "rating": "5",
+    "lessons": "19",
+    "img": "http://localhost"
+  },
+  {
+    "course": "Master English: Improve Your Speaking",
+    "rating": "5",
+    "lessons": "8",
+    "img": "http://localhost"
+  },
+  {
+    "course": "Master English: Improve Your Speaking",
+    "rating": "4",
+    "lessons": "20",
     "img": "http://localhost"
   },
   {
@@ -26,7 +44,13 @@
   {
     "course": "Master English: Improve Your Speaking",
     "rating": "3",
-    "lessons": "10",
+    "lessons": "15",
+    "img": "http://localhost"
+  },
+  {
+    "course": "Master English: Improve Your Speaking",
+    "rating": "5",
+    "lessons": "8",
     "img": "http://localhost"
   },
   {
