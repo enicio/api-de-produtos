@@ -2,61 +2,61 @@
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": 7,
+    "DiscountPrice": 7,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": 10,
+    "DiscountPrice": 10,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": 15,
+    "DiscountPrice": 15,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": 10,
+    "DiscountPrice": 10,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   },
   {
     "name": "Shampoo",
     "price": "6990",
-    "DiscountePrice": null,
+    "DiscountPrice": null,
     "img": "http://localhost"
   }
 ]
