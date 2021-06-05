@@ -1,5 +1,5 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
-import petproducts from '../../service/petproducts.json'
+import petproducts from '../../service/petProducts.json'
 
 import Cors from 'cors'
 import initMiddleware from '../../lib/init-middleware'
