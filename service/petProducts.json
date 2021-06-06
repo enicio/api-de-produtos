@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Shampoo",
     "price": "6990",
     "category": "hygiene",
@@ -8,6 +9,7 @@
     "img": "https://ucarecdn.com/09275ccf-ce95-4b96-a814-6bc92f02e349/shampu.png"
   },
   {
+    "id": 2,
     "name": "Sapo verde",
     "price": "6990",
     "category": "toys",
@@ -16,6 +18,7 @@
     "img": "https://ucarecdn.com/62396ccf-3554-4e1f-8dad-b19d4066fdcd/sapo.png"
   },
   {
+    "id": 3,
     "name": "Ração 1",
     "price": "6990",
     "category": "food",
@@ -24,6 +27,7 @@
     "img": "https://ucarecdn.com/26a5258a-bdf8-4862-b114-621134e34a8b/racao_4.png"
   },
   {
+    "id": 4,
     "name": "Ração 2",
     "price": "6990",
     "category": "food",
@@ -32,6 +36,7 @@
     "img": "https://ucarecdn.com/d26f82a8-7df2-42de-9a5d-4a56a36d92f5/racao_1.png"
   },
   {
+    "id": 5,
     "name": "Bola Colorida",
     "price": "6990",
     "category": "toys",
@@ -40,6 +45,7 @@
     "img": "https://ucarecdn.com/a3fc712b-e021-41c5-90eb-fa9b0b44244f/bola_brinquedo.png"
   },
   {
+    "id": 6,
     "name": "Cama",
     "price": "6990",
     "category": "utilities",
@@ -48,6 +54,7 @@
     "img": "https://ucarecdn.com/a14af5da-ed44-4563-97a8-fa870a9f0fda/cama.png"
   },
   {
+    "id": 7,
     "name": "Macaco",
     "price": "6990",
     "category": "toys",
@@ -56,6 +63,7 @@
     "img": "https://ucarecdn.com/e00d2af7-9e2b-4d17-8e16-e2a245a8ab14/macaco.png"
   },
   {
+    "id": 8,
     "name": "Prato",
     "price": "6990",
     "category": "utilities",
@@ -64,6 +72,7 @@
     "img": "https://ucarecdn.com/bd21466e-5299-40ac-9ff9-16f247b7a0ef/prato.png"
   },
   {
+    "id": 9,
     "name": "Osso colorido",
     "price": "6990",
     "category": "toys",
@@ -72,6 +81,7 @@
     "img": "https://ucarecdn.com/7bab4bcd-9001-4356-b902-7812cef50807/osso_brinquedo.png"
   },
   {
+    "id": 10,
     "name": "Ração lata",
     "price": "6990",
     "category": "food",
